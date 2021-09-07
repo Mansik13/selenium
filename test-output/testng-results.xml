@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T20:24:59 IST" name="Default suite" finished-at="2021-09-07T20:25:42 IST" duration-ms="42807">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T20:24:59 IST" name="Default test" finished-at="2021-09-07T20:25:42 IST" duration-ms="42807">
+      <class name="com.seleniumtest.seleniumtest.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:24:59 IST" name="beforeTest" finished-at="2021-09-07T20:25:08 IST" duration-ms="9107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testJbkTitle()[pri:0, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:08 IST" name="testJbkTitle" finished-at="2021-09-07T20:25:17 IST" duration-ms="8675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+        <test-method signature="testJbkTitleInvalid()[pri:1, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:17 IST" name="testJbkTitleInvalid" finished-at="2021-09-07T20:25:21 IST" duration-ms="3950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitleInvalid -->
+        <test-method signature="testJbkTitlesubmit()[pri:2, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:21 IST" name="testJbkTitlesubmit" finished-at="2021-09-07T20:25:31 IST" duration-ms="10207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlesubmit -->
+        <test-method signature="testJbkTitlecheck()[pri:3, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:31 IST" name="testJbkTitlecheck" finished-at="2021-09-07T20:25:34 IST" duration-ms="2473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlecheck -->
+        <test-method signature="testJbkTitlescroll()[pri:3, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:34 IST" name="testJbkTitlescroll" finished-at="2021-09-07T20:25:40 IST" duration-ms="6575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlescroll -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.seleniumtest.seleniumtest.NewTest@73700b80]" started-at="2021-09-07T20:25:40 IST" name="afterTest" finished-at="2021-09-07T20:25:42 IST" duration-ms="1407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.seleniumtest.seleniumtest.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
